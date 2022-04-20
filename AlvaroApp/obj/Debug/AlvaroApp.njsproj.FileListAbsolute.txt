@@ -1,0 +1,3 @@
+C:\Users\alvar\source\repos\AlvaroApp\AlvaroApp\obj\Debug\AlvaroApp.njsproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\AlvaroApp\AlvaroApp\obj\Debug\AlvaroApp.njsproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\AlvaroApp\AlvaroApp\bin\Microsoft.NodejsTools.WebRole.dll
